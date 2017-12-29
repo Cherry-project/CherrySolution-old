@@ -1,0 +1,5 @@
+include cherry/configuration/*.json
+include cherry/config/*.json
+include cherry/vrep-scene/*.ttt
+include cherry/moves/*.move
+include cherry/tmp/*

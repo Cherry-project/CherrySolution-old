@@ -1,0 +1,307 @@
+running install
+running bdist_egg
+running egg_info
+writing requirements to cherry.egg-info/requires.txt
+writing cherry.egg-info/PKG-INFO
+writing top-level names to cherry.egg-info/top_level.txt
+writing dependency_links to cherry.egg-info/dependency_links.txt
+reading manifest file 'cherry.egg-info/SOURCES.txt'
+reading manifest template 'MANIFEST.in'
+writing manifest file 'cherry.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-x86_64/egg
+running install_lib
+running build_py
+creating build/bdist.linux-x86_64/egg
+creating build/bdist.linux-x86_64/egg/cherry
+creating build/bdist.linux-x86_64/egg/cherry/configuration
+copying build/lib/cherry/configuration/cherry.json -> build/bdist.linux-x86_64/egg/cherry/configuration
+copying build/lib/cherry/__init__.py -> build/bdist.linux-x86_64/egg/cherry
+creating build/bdist.linux-x86_64/egg/cherry/screen
+copying build/lib/cherry/screen/eyeAngry.py -> build/bdist.linux-x86_64/egg/cherry/screen
+copying build/lib/cherry/screen/__init__.py -> build/bdist.linux-x86_64/egg/cherry/screen
+copying build/lib/cherry/screen/eye.py -> build/bdist.linux-x86_64/egg/cherry/screen
+creating build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/surprise.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/happy.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/__init__.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/get_fond.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/sad.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/neutral2sleep.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/neutral2sad.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/get_reaction.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/sleep2neutral.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/neutral2surprise.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/surprise2neutral.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/eyes.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/blink.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/sleepy.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/neutral2happy.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/happy2neutral.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/sad2neutral.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/old/basic.py -> build/bdist.linux-x86_64/egg/cherry/screen/old
+copying build/lib/cherry/screen/eyeHappy.py -> build/bdist.linux-x86_64/egg/cherry/screen
+creating build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/__init__.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/main.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/facedetect.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/camera.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/video.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/webcam.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/runLook.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/Face_Recognition.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/common.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/recognize.py -> build/bdist.linux-x86_64/egg/cherry/camera
+copying build/lib/cherry/camera/utils.py -> build/bdist.linux-x86_64/egg/cherry/camera
+creating build/bdist.linux-x86_64/egg/cherry/vrep-scene
+copying build/lib/cherry/vrep-scene/cherry.ttt -> build/bdist.linux-x86_64/egg/cherry/vrep-scene
+copying build/lib/cherry/attach_primitive.py -> build/bdist.linux-x86_64/egg/cherry
+creating build/bdist.linux-x86_64/egg/cherry/stt
+copying build/lib/cherry/stt/__init__.py -> build/bdist.linux-x86_64/egg/cherry/stt
+copying build/lib/cherry/stt/listen_old.py -> build/bdist.linux-x86_64/egg/cherry/stt
+creating build/bdist.linux-x86_64/egg/cherry/utils
+copying build/lib/cherry/utils/__init__.py -> build/bdist.linux-x86_64/egg/cherry/utils
+copying build/lib/cherry/utils/min_jerk.py -> build/bdist.linux-x86_64/egg/cherry/utils
+creating build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/__init__.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/play_move.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/swap.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/idle.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/service_ready.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/restOpen.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/testBlank.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/head.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/test_gtts.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/showRightRest.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/pointArmLeft.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/rightArm.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/hunkers.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/littleArmsUp.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/arms.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/send_ip.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/question.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/leftArm.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/doubleMe.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/primitives/leftArmUp.py -> build/bdist.linux-x86_64/egg/cherry/primitives
+copying build/lib/cherry/cherry.py -> build/bdist.linux-x86_64/egg/cherry
+creating build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/__init__.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/streaming.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/stt_test.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/demonsWatson.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/serveurTTS.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/chatterbot.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/pytts.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/choix_document.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/speak_3.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/STT.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/TutoPoppy.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/speak_3_old.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/STT_google.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/async_google.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/clientTTS.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/googlecloud.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/test_bdd.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/TTS_watson.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/voice_recognition.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/google.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/primitiveRennes.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/testRennes.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+copying build/lib/cherry/chatterbot/ReponseRobot.py -> build/bdist.linux-x86_64/egg/cherry/chatterbot
+creating build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/__init__.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/speak.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/speak_3.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/test.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/speak_2.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/speak_3_old.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/say_text.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/reset_audio.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+copying build/lib/cherry/textToSpeech/speak_windows.py -> build/bdist.linux-x86_64/egg/cherry/textToSpeech
+byte-compiling build/bdist.linux-x86_64/egg/cherry/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/eyeAngry.py to eyeAngry.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/eye.py to eye.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/surprise.py to surprise.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/happy.py to happy.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/get_fond.py to get_fond.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/sad.py to sad.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/neutral2sleep.py to neutral2sleep.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/neutral2sad.py to neutral2sad.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/get_reaction.py to get_reaction.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/sleep2neutral.py to sleep2neutral.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/neutral2surprise.py to neutral2surprise.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/surprise2neutral.py to surprise2neutral.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/eyes.py to eyes.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/blink.py to blink.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/sleepy.py to sleepy.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/neutral2happy.py to neutral2happy.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/happy2neutral.py to happy2neutral.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/sad2neutral.py to sad2neutral.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/old/basic.py to basic.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/screen/eyeHappy.py to eyeHappy.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/main.py to main.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/facedetect.py to facedetect.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/camera.py to camera.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/video.py to video.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/webcam.py to webcam.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/runLook.py to runLook.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/Face_Recognition.py to Face_Recognition.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/common.py to common.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/recognize.py to recognize.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/camera/utils.py to utils.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/attach_primitive.py to attach_primitive.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/stt/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/stt/listen_old.py to listen_old.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/utils/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/utils/min_jerk.py to min_jerk.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/play_move.py to play_move.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/swap.py to swap.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/idle.py to idle.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/service_ready.py to service_ready.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/restOpen.py to restOpen.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/testBlank.py to testBlank.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/head.py to head.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/test_gtts.py to test_gtts.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/showRightRest.py to showRightRest.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/pointArmLeft.py to pointArmLeft.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/rightArm.py to rightArm.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/hunkers.py to hunkers.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/littleArmsUp.py to littleArmsUp.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/arms.py to arms.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/send_ip.py to send_ip.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/question.py to question.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/leftArm.py to leftArm.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/doubleMe.py to doubleMe.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/primitives/leftArmUp.py to leftArmUp.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/cherry.py to cherry.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/streaming.py to streaming.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/stt_test.py to stt_test.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/demonsWatson.py to demonsWatson.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/serveurTTS.py to serveurTTS.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/chatterbot.py to chatterbot.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/pytts.py to pytts.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/choix_document.py to choix_document.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/speak_3.py to speak_3.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/STT.py to STT.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/TutoPoppy.py to TutoPoppy.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/speak_3_old.py to speak_3_old.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/STT_google.py to STT_google.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/async_google.py to async_google.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/clientTTS.py to clientTTS.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/googlecloud.py to googlecloud.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/test_bdd.py to test_bdd.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/TTS_watson.py to TTS_watson.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/voice_recognition.py to voice_recognition.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/google.py to google.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/primitiveRennes.py to primitiveRennes.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/testRennes.py to testRennes.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/chatterbot/ReponseRobot.py to ReponseRobot.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/__init__.py to __init__.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/speak.py to speak.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/speak_3.py to speak_3.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/test.py to test.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/speak_2.py to speak_2.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/speak_3_old.py to speak_3_old.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/say_text.py to say_text.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/reset_audio.py to reset_audio.pyc
+byte-compiling build/bdist.linux-x86_64/egg/cherry/textToSpeech/speak_windows.py to speak_windows.pyc
+creating build/bdist.linux-x86_64/egg/EGG-INFO
+copying cherry.egg-info/PKG-INFO -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying cherry.egg-info/SOURCES.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying cherry.egg-info/dependency_links.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying cherry.egg-info/not-zip-safe -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying cherry.egg-info/requires.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying cherry.egg-info/top_level.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+creating 'dist/cherry-0.0.3-py2.7.egg' and adding 'build/bdist.linux-x86_64/egg' to it
+removing 'build/bdist.linux-x86_64/egg' (and everything under it)
+Processing cherry-0.0.3-py2.7.egg
+removing '/home/poppy/miniconda2/lib/python2.7/site-packages/cherry-0.0.3-py2.7.egg' (and everything under it)
+creating /home/poppy/miniconda2/lib/python2.7/site-packages/cherry-0.0.3-py2.7.egg
+Extracting cherry-0.0.3-py2.7.egg to /home/poppy/miniconda2/lib/python2.7/site-packages
+cherry 0.0.3 is already the active version in easy-install.pth
+
+Installed /home/poppy/miniconda2/lib/python2.7/site-packages/cherry-0.0.3-py2.7.egg
+Processing dependencies for cherry==0.0.3
+Searching for pypot==3.0.3
+Best match: pypot 3.0.3
+Adding pypot 3.0.3 to easy-install.pth file
+Installing poppy-configure script to /home/poppy/miniconda2/bin
+Installing poppy-services script to /home/poppy/miniconda2/bin
+Installing dxl-config script to /home/poppy/miniconda2/bin
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for poppy-creature==2.0.0
+Best match: poppy-creature 2.0.0
+Adding poppy-creature 2.0.0 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for tornado==4.5.2
+Best match: tornado 4.5.2
+Adding tornado 4.5.2 to easy-install.pth file
+
+Using /home/poppy/miniconda2/lib/python2.7/site-packages
+Searching for numpy==1.13.3
+Best match: numpy 1.13.3
+Adding numpy 1.13.3 to easy-install.pth file
+
+Using /home/poppy/miniconda2/lib/python2.7/site-packages
+Searching for pyserial==3.4
+Best match: pyserial 3.4
+Adding pyserial 3.4 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for ikpy==2.2.3
+Best match: ikpy 2.2.3
+Adding ikpy 2.2.3 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for scipy==1.0.0
+Best match: scipy 1.0.0
+Adding scipy 1.0.0 to easy-install.pth file
+
+Using /home/poppy/miniconda2/lib/python2.7/site-packages
+Searching for enum34==1.1.6
+Best match: enum34 1.1.6
+Adding enum34 1.1.6 to easy-install.pth file
+
+Using /home/poppy/miniconda2/lib/python2.7/site-packages
+Searching for bottle==0.12.13
+Best match: bottle 0.12.13
+Adding bottle 0.12.13 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for backports-abc==0.5
+Best match: backports-abc 0.5
+Adding backports-abc 0.5 to easy-install.pth file
+
+Using /home/poppy/miniconda2/lib/python2.7/site-packages
+Searching for certifi==2017.11.5
+Best match: certifi 2017.11.5
+Adding certifi 2017.11.5 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for singledispatch==3.4.0.3
+Best match: singledispatch 3.4.0.3
+Adding singledispatch 3.4.0.3 to easy-install.pth file
+
+Using /home/poppy/miniconda2/lib/python2.7/site-packages
+Searching for sympy==1.1.1
+Best match: sympy 1.1.1
+Adding sympy 1.1.1 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for six==1.11.0
+Best match: six 1.11.0
+Adding six 1.11.0 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Searching for mpmath==1.0.0
+Best match: mpmath 1.0.0
+Adding mpmath 1.0.0 to easy-install.pth file
+
+Using /home/poppy/.local/lib/python2.7/site-packages
+Finished processing dependencies for cherry==0.0.3

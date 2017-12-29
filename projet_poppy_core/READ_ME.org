@@ -1,0 +1,46 @@
+* UTILISATION
+
+** APPELER DES PRIMITIVES
+
+   Pour faire jouer des primitives à Poppy, il faut lui envoyer des requêtes HTTP de la forme suivante:
+
+   http://ip_de_poppy:port/primitive/nom_de_la_primitive/start.json
+
+   où le port est 8080 et où le nom de la primitive est dans la list ci-dessous.
+   
+   Pour les stopper, remplacer start.json par stop.json.
+
+** BIBLIOTHEQUE DE MOUVEMENT
+
+   Voila la liste des valeurs possibles de nom_de_la_primitive:
+
+   + rest_open_behave
+   + point_arm_left_old_behave
+   + question_behave
+   + double_me_behave
+   + swap_behave
+   + left_arm_up_behave
+   + hunkers_behave
+   + little_arms_up_behave
+   + show_right_rest_behave
+   + look_right_behave
+   + open_arms_behave
+   + point_arms_behave
+   + show_right_behave
+   + show_right_up_behave
+   + point_arm_right_behave
+   + show_left_behave
+   + point_arm_left_behave
+   + play_movement
+   + upper_body_idle_motion
+   + head_idle_motion
+   + torso_idle_motion
+   + speak
+   + say_text
+   + test_gtts
+   + eye_behave
+   + eye_angry_behave
+   + eye_happy_behave
+   + listen
+   + testRennes
+
