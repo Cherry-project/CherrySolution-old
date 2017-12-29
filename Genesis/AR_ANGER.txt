@@ -1,0 +1,371 @@
+
+//=(SUJET : <-var sujet-><-continuer->)
+lance la demo=Bonjour, je suis le robot humanoïde Poppy. Avez-vous une question pour moi ? 
+
+// ##########################  ANGERS  ##########################
+
+// Population
+
+population=Avec une population de 156 000 habitants, dans une zone urbaine de 400 000 habitants, Angers est la dix-neuvième ville de France. Elle a été classé 1ère ville de France où il fait bon vivre.
+
+habitants=Avec une population de 156 000 habitants, dans une zone urbaine de 400 000 habitants, Angers est la dix-neuvième ville de France. Elle a été classé 1ère ville de France où il fait bon vivre.
+
+habitant=Avec une population de 156 000 habitants, dans une zone urbaine de 400 000 habitants, Angers est la dix-neuvième ville de France. Elle a été classé 1ère ville de France où il fait bon vivre.
+
+taille=Avec une population de 156 000 habitants, dans une zone urbaine de 400 000 habitants, Angers est la dix-neuvième ville de France. Elle a été classé 1ère ville de France où il fait bon vivre.
+
+10=Avec une population de 156 000 habitants, dans une zone urbaine de 400 000 habitants, Angers est la dix-neuvième ville de France. Elle a été classé 1ère ville de France où il fait bon vivre.
+
+// Localisation
+
+où est Angers=Angers est une grande ville de l'Ouest de la France, à 1h30 de Paris avec le TGV.
+
+où(*)situe(*)Angers=Angers est une grande ville de l'Ouest de la France, à 1h30 de Paris avec le TGV.
+
+distance=Angers est une grande ville de l'Ouest de la France, à 1h30 de Paris avec le TGV.
+
+situation=Angers est une grande ville de l'Ouest de la France, à 1h30 de Paris avec le TGV.
+
+11=Angers est une grande ville de l'Ouest de la France, à 1h30 de Paris avec le TGV.
+
+// Activités
+
+Qu'y faire=Les Offices de tourisme d'Angers Val de Loire vous informent sur les bons plans, châteaux, musées, vignobles, loisirs et actualités.
+
+qui(*)faire(*)=Les Offices de tourisme d'Angers Val de Loire vous informent sur les bons plans, châteaux, musées, vignobles, loisirs et actualités.
+
+musées=Les Offices de tourisme d'Angers Val de Loire vous informent sur les bons plans, châteaux, musées, vignobles, loisirs et actualités.
+
+vignobles=Les Offices de tourisme d'Angers Val de Loire vous informent sur les bons plans, châteaux, musées, vignobles, loisirs et actualités.
+
+musée=Les Offices de tourisme d'Angers Val de Loire vous informent sur les bons plans, châteaux, musées, vignobles, loisirs et actualités.
+
+vignoble=Les Offices de tourisme d'Angers Val de Loire vous informent sur les bons plans, châteaux, musées, vignobles, loisirs et actualités.
+
+12=Les Offices de tourisme d'Angers Val de Loire vous informent sur les bons plans, châteaux, musées, vignobles, loisirs et actualités.
+
+// Que voir
+
+que(*)voir=Le château d'Angers. Une forteresse royale imprenable. Construite au XIIIe siècle, la gigantesque forteresse de dix-sept tours de schiste et de calcaire qui s’étendent sur près d’un demi-kilomètre dégage une formidable impression de puissance.
+
+château=Le château d'Angers. Une forteresse royale imprenable. Construite au XIIIe siècle, la gigantesque forteresse de dix-sept tours de schiste et de calcaire qui s’étendent sur près d’un demi-kilomètre dégage une formidable impression de puissance.
+
+forteresse=Le château d'Angers. Une forteresse royale imprenable. Construite au XIIIe siècle, la gigantesque forteresse de dix-sept tours de schiste et de calcaire qui s’étendent sur près d’un demi-kilomètre dégage une formidable impression de puissance.
+
+13=Le château d'Angers. Une forteresse royale imprenable. Construite au XIIIe siècle, la gigantesque forteresse de dix-sept tours de schiste et de calcaire qui s’étendent sur près d’un demi-kilomètre dégage une formidable impression de puissance.
+
+// Manger
+où(*)manger=Vous trouverez de nombreux restaurant à Angers allant de l'établissement étoilé, le Favre d'Anne, jusqu'à l'indispensable Mac Donald !
+
+dîner=Vous trouverez de nombreux restaurant à Angers allant de l'établissement étoilé, le Favre d'Anne, jusqu'à l'indispensable Mac Donald !
+
+manger=Vous trouverez de nombreux restaurant à Angers allant de l'établissement étoilé, le Favre d'Anne, jusqu'à l'indispensable Mac Donald !
+
+déjeuner=Vous trouverez de nombreux restaurant à Angers allant de l'établissement étoilé, le Favre d'Anne, jusqu'à l'indispensable Mac Donald !
+
+14=Vous trouverez de nombreux restaurant à Angers allant de l'établissement étoilé, le Favre d'Anne, jusqu'à l'indispensable Mac Donald !
+
+// Culinaire
+
+spécialités=Angers a quelques spécialités gastronomiques, beaucoup sont sucrées comme les quernons, les caramandes ou le Choco Roi mais vous pouvez aussi manger des fouaces, des rillauds et des galipettes. Mais vous pouvez aussi essayer le Cointreau, le guignolet et quelques vins de Loire comme le Savennière.
+
+spécialité=Angers a quelques spécialités gastronomiques, beaucoup sont sucrées comme les quernons, les caramandes ou le Choco Roi mais vous pouvez aussi manger des fouaces, des rillauds et des galipettes. Mais vous pouvez aussi essayer le Cointreau, le guignolet et quelques vins de Loire comme le Savennière.
+
+spécialitée=Angers a quelques spécialités gastronomiques, beaucoup sont sucrées comme les quernons, les caramandes ou le Choco Roi mais vous pouvez aussi manger des fouaces, des rillauds et des galipettes. Mais vous pouvez aussi essayer le Cointreau, le guignolet et quelques vins de Loire comme le Savennière.
+
+culinaires=Angers a quelques spécialités gastronomiques, beaucoup sont sucrées comme les quernons, les caramandes ou le Choco Roi mais vous pouvez aussi manger des fouaces, des rillauds et des galipettes. Mais vous pouvez aussi essayer le Cointreau, le guignolet et quelques vins de Loire comme le Savennière.
+
+culinaire=Angers a quelques spécialités gastronomiques, beaucoup sont sucrées comme les quernons, les caramandes ou le Choco Roi mais vous pouvez aussi manger des fouaces, des rillauds et des galipettes. Mais vous pouvez aussi essayer le Cointreau, le guignolet et quelques vins de Loire comme le Savennière.
+
+15=Angers a quelques spécialités gastronomiques, beaucoup sont sucrées comme les quernons, les caramandes ou le Choco Roi mais vous pouvez aussi manger des fouaces, des rillauds et des galipettes. Mais vous pouvez aussi essayer le Cointreau, le guignolet et quelques vins de Loire comme le Savennière.
+
+// Histoires
+
+tapisserie=Un essentiel de la ville d’Angers. Traversez la Maine pour visiter l’ancien hôpital Saint-Jean, l'un des derniers des grands ensembles hospitaliers créés au 12e siècle ! Vous pourrez déambuler dans la galerie couverte et contempler les œuvres exposées, sublimées par le cadre et la lumière des lieux. Vous serez vite attirés dans la grande salle des malades où siège la fameuse tenture du Chant du Monde de Jean Lurçat qui fait écho à la tenture de l’Apocalypse du château d’Angers. La Tapisserie de l'Apocalypse commandée vers  1375 par le duc Louis Ier d’Anjou, c'est un chef d’œuvre de l’art médiéval, unique au monde.  Sur ses 140 mètres d’origine, 100 sont parvenus jusqu’à nous. Elle est le plus important ensemble de tapisseries médiévales subsistant au monde. Constituée de six pièces mesurant environ 4.50 mètres de haut composées chacune d’un grand personnage introductif et de quatorze scènes, elle couvrait à l’origine une surface totale de 850 m².
+
+Lurçat=Un essentiel de la ville d’Angers. Traversez la Maine pour visiter l’ancien hôpital Saint-Jean, l'un des derniers des grands ensembles hospitaliers créés au 12e siècle ! Vous pourrez déambuler dans la galerie couverte et contempler les œuvres exposées, sublimées par le cadre et la lumière des lieux. Vous serez vite attirés dans la grande salle des malades où siège la fameuse tenture du Chant du Monde de Jean Lurçat qui fait écho à la tenture de l’Apocalypse du château d’Angers. La Tapisserie de l'Apocalypse commandée vers  1375 par le duc Louis Ier d’Anjou, c'est un chef d’œuvre de l’art médiéval, unique au monde.  Sur ses 140 mètres d’origine, 100 sont parvenus jusqu’à nous. Elle est le plus important ensemble de tapisseries médiévales subsistant au monde. Constituée de six pièces mesurant environ 4.50 mètres de haut composées chacune d’un grand personnage introductif et de quatorze scènes, elle couvrait à l’origine une surface totale de 850 m².
+
+apocalypse=Un essentiel de la ville d’Angers. Traversez la Maine pour visiter l’ancien hôpital Saint-Jean, l'un des derniers des grands ensembles hospitaliers créés au 12e siècle ! Vous pourrez déambuler dans la galerie couverte et contempler les œuvres exposées, sublimées par le cadre et la lumière des lieux. Vous serez vite attirés dans la grande salle des malades où siège la fameuse tenture du Chant du Monde de Jean Lurçat qui fait écho à la tenture de l’Apocalypse du château d’Angers. La Tapisserie de l'Apocalypse commandée vers  1375 par le duc Louis Ier d’Anjou, c'est un chef d’œuvre de l’art médiéval, unique au monde. Sur ses 140 mètres d’origine, 100 sont parvenus jusqu’à nous. Elle est le plus important ensemble de tapisseries médiévales subsistant au monde. Constituée de six pièces mesurant environ 4.50 mètres de haut composées chacune d’un grand personnage introductif et de quatorze scènes, elle couvrait à l’origine une surface totale de 850 m².
+
+histoire 2=Un essentiel de la ville d’Angers. Traversez la Maine pour visiter l’ancien hôpital Saint-Jean, l'un des derniers des grands ensembles hospitaliers créés au 12e siècle ! Vous pourrez déambuler dans la galerie couverte et contempler les œuvres exposées, sublimées par le cadre et la lumière des lieux. Vous serez vite attirés dans la grande salle des malades où siège la fameuse tenture du Chant du Monde de Jean Lurçat qui fait écho à la tenture de l’Apocalypse du château d’Angers. La Tapisserie de l'Apocalypse commandée vers  1375 par le duc Louis Ier d’Anjou, c'est un chef d’œuvre de l’art médiéval, unique au monde. Sur ses 140 mètres d’origine, 100 sont parvenus jusqu’à nous. Elle est le plus important ensemble de tapisseries médiévales subsistant au monde. Constituée de six pièces mesurant environ 4.50 mètres de haut composées chacune d’un grand personnage introductif et de quatorze scènes, elle couvrait à l’origine une surface totale de 850 m².
+
+17=Un essentiel de la ville d’Angers. Traversez la Maine pour visiter l’ancien hôpital Saint-Jean, l'un des derniers des grands ensembles hospitaliers créés au 12e siècle ! Vous pourrez déambuler dans la galerie couverte et contempler les œuvres exposées, sublimées par le cadre et la lumière des lieux. Vous serez vite attirés dans la grande salle des malades où siège la fameuse tenture du Chant du Monde de Jean Lurçat qui fait écho à la tenture de l’Apocalypse du château d’Angers. La Tapisserie de l'Apocalypse commandée vers  1375 par le duc Louis Ier d’Anjou, c'est un chef d’œuvre de l’art médiéval, unique au monde. Sur ses 140 mètres d’origine, 100 sont parvenus jusqu’à nous. Elle est le plus important ensemble de tapisseries médiévales subsistant au monde. Constituée de six pièces mesurant environ 4.50 mètres de haut composées chacune d’un grand personnage introductif et de quatorze scènes, elle couvrait à l’origine une surface totale de 850 m².
+
+pont=Le pont de la Basse-Chaîne franchit la Maine à Angers, il est connu pour sa destruction en 1850 qui provoqua la mort de 220 soldats parce que la marche avait provoqué une vibration fatale à la structure.
+
+18=Le pont de la Basse-Chaîne franchit la Maine à Angers, il est connu pour sa destruction en 1850 qui provoqua la mort de 220 soldats parce que la marche avait provoqué une vibration fatale à la structure.
+
+anecdote=Le pont de la Basse-Chaîne franchit la Maine à Angers, il est connu pour sa destruction en 1850 qui provoqua la mort de 220 soldats parce que la marche avait provoqué une vibration fatale à la structure.
+
+basse-chaîne=Le pont de la Basse-Chaîne franchit la Maine à Angers, il est connu pour sa destruction en 1850 qui provoqua la mort de 220 soldats parce que la marche avait provoqué une vibration fatale à la structure.
+
+histoire 3=Le pont de la Basse-Chaîne franchit la Maine à Angers, il est connu pour sa destruction en 1850 qui provoqua la mort de 220 soldats parce que la marche avait provoqué une vibration fatale à la structure.
+
+histoire 1=Dans l'histoire de l'Anjou, Angers revêt une importance significative, la ville étant la capitale politique, culturelle et économique du comté puis du duché d'Anjou et enfin du Maine-et-Loire.
+
+histoire=Dans l'histoire de l'Anjou, Angers revêt une importance significative, la ville étant la capitale politique, culturelle et économique du comté puis du duché d'Anjou et enfin du Maine-et-Loire.
+
+16=Dans l'histoire de l'Anjou, Angers revêt une importance significative, la ville étant la capitale politique, culturelle et économique du comté puis du duché d'Anjou et enfin du Maine-et-Loire.
+
+douce=Angers, ville mythique et d'histoire. La fameuse « douceur angevine », ancrée dans notre mémoire collective sous la plume de Joakim du Bellay, en est devenue l’identité, la rondeur, l’adage traduisant bel et bien un cadre de vie exceptionnel.
+
+19=Angers, ville mythique et d'histoire. La fameuse « douceur angevine », ancrée dans notre mémoire collective sous la plume de Joakim du Bellay, en est devenue l’identité, la rondeur, l’adage traduisant bel et bien un cadre de vie exceptionnel.
+
+douceur=Angers, ville mythique et d'histoire. La fameuse « douceur angevine », ancrée dans notre mémoire collective sous la plume de Joakim du Bellay, en est devenue l’identité, la rondeur, l’adage traduisant bel et bien un cadre de vie exceptionnel.
+
+mythique=Angers, ville mythique et d'histoire. La fameuse « douceur angevine », ancrée dans notre mémoire collective sous la plume de Joakim du Bellay, en est devenue l’identité, la rondeur, l’adage traduisant bel et bien un cadre de vie exceptionnel.
+
+mytiques=Angers, ville mythique et d'histoire. La fameuse « douceur angevine », ancrée dans notre mémoire collective sous la plume de Joakim du Bellay, en est devenue l’identité, la rondeur, l’adage traduisant bel et bien un cadre de vie exceptionnel.
+
+// Entreprises
+
+entreprises=Angers est un territoire avec une économie extrêmement diversifiée. Aucun secteur ne pèse plus de 10 % des emplois. Cette diversité permet de disposer de plusieurs filières d’excellence et crée un écosystème très favorable aux entreprises.
+
+entreprise=Angers est un territoire avec une économie extrêmement diversifiée. Aucun secteur ne pèse plus de 10 % des emplois. Cette diversité permet de disposer de plusieurs filières d’excellence et crée un écosystème très favorable aux entreprises.
+
+20=Angers est un territoire avec une économie extrêmement diversifiée. Aucun secteur ne pèse plus de 10 % des emplois. Cette diversité permet de disposer de plusieurs filières d’excellence et crée un écosystème très favorable aux entreprises.
+
+domaine=L’économie angevine s’appuie sur des filières historiques. C'est le premier bassin horticole de France. Le végétal est une filière d’excellence et innovante. Le numérique est aussi un domaine en pleine croissance, notre territoire angevin est membre du réseau IoTé et Manufacturing de la Freintch Tèk.
+
+filière=L’économie angevine s’appuie sur des filières historiques. C'est le premier bassin horticole de France. Le végétal est une filière d’excellence et innovante. Le numérique est aussi un domaine en pleine croissance, notre territoire angevin est membre du réseau IoTé et Manufacturing de la Freintch Tèk.
+
+Spécificités(*)économiques=L’économie angevine s’appuie sur des filières historiques. C'est le premier bassin horticole de France. Le végétal est une filière d’excellence et innovante. Le numérique est aussi un domaine en pleine croissance, notre territoire angevin est membre du réseau IoTé et Manufacturing de la Freintch Tech.
+
+21=L’économie angevine s’appuie sur des filières historiques. C'est le premier bassin horticole de France. Le végétal est une filière d’excellence et innovante. Le numérique est aussi un domaine en pleine croissance, notre territoire angevin est membre du réseau IoTé et Manufacturing de la Freintch Tech.
+
+// Vegetal
+
+végétal=Ouvert en 2010, le parc du Végétal, Terra Botanica, unique en Europe, a ouvert ses portes, point d'orgue pour la capitale angevine qui devient désormais la capitale du monde végétal. Terra Botanica est un parc à thème qui fourmille d'animations et d'attractions pour toute la famille.
+
+botanica=Ouvert en 2010, le parc du Végétal, Terra Botanica, unique en Europe, a ouvert ses portes, point d'orgue pour la capitale angevine qui devient désormais la capitale du monde végétal. Terra Botanica est un parc à thème qui fourmille d'animations et d'attractions pour toute la famille.
+
+22=Ouvert en 2010, le parc du Végétal, Terra Botanica, unique en Europe, a ouvert ses portes, point d'orgue pour la capitale angevine qui devient désormais la capitale du monde végétal. Terra Botanica est un parc à thème qui fourmille d'animations et d'attractions pour toute la famille.
+
+
+// Emploi
+
+emploi=Le Grand Ouest français, où Angers se situe, est une terre de tradition industrielle qui concentre la plus grande densité de sites de production électronique en France avec 25 % de l'emploi de l'industrie électronique française, soit 50 000 postes.
+
+poste=Le Grand Ouest français, où Angers se situe, est une terre de tradition industrielle qui concentre la plus grande densité de sites de production électronique en France avec 25 % de l'emploi de l'industrie électronique française, soit 50 000 postes.
+
+23=Le Grand Ouest français, où Angers se situe, est une terre de tradition industrielle qui concentre la plus grande densité de sites de production électronique en France avec 25 % de l'emploi de l'industrie électronique française, soit 50 000 postes.
+
+électronique=Lors de l’inauguration de l’usine Bull, le 10 mai 1963, Le Courrier de l’Ouest écrit du moins : « L’Anjou, première province française de l’électronique » « Cette extraordinaire marche de l’électronique vers l’Ouest » vaut à la région des Pays de la Loire, avec près de 9 000 emplois créés, de se situer, après la région parisienne, « au premier rang des régions françaises de l’industrie électronique ».
+
+capitale(*)électronique=Lors de l’inauguration de l’usine Bull, le 10 mai 1963, Le Courrier de l’Ouest écrit du moins : « L’Anjou, première province française de l’électronique » « Cette extraordinaire marche de l’électronique vers l’Ouest » vaut à la région des Pays de la Loire, avec près de 9 000 emplois créés, de se situer, après la région parisienne, « au premier rang des régions françaises de l’industrie électronique ».
+
+24=Lors de l’inauguration de l’usine Bull, le 10 mai 1963, Le Courrier de l’Ouest écrit du moins : « L’Anjou, première province française de l’électronique » « Cette extraordinaire marche de l’électronique vers l’Ouest » vaut à la région des Pays de la Loire, avec près de 9 000 emplois créés, de se situer, après la région parisienne, « au premier rang des régions françaises de l’industrie électronique ».
+
+// IOT
+
+// Cité de l'objet connecté
+
+cité=La Cité de l’Objet Connecté accompagne les start-up, PéèMEu, EuTéI, et grands groupes à tous les stades d’avancement de leurs projets IoT, de l’idée à l’industrialisation. Rejoignez un espace qui stimule la créativité et vous connecte à vos ambitions. La Cité est un lieu d’échanges où se rencontrent des passionnés et des professionnels pour donner vie aux objets connectés de demain.
+
+25=La Cité de l’Objet Connecté accompagne les start-up, PéèMEu, EuTéI, et grands groupes à tous les stades d’avancement de leurs projets IoT, de l’idée à l’industrialisation. Rejoignez un espace qui stimule la créativité et vous connecte à vos ambitions. La Cité est un lieu d’échanges où se rencontrent des passionnés et des professionnels pour donner vie aux objets connectés de demain.
+
+//objet=La Cité de l’Objet Connecté accompagne les start-up, PéèMEu, EuTéI, et grands groupes à tous les stades d’avancement de leurs projets IoT, de l’idée à l’industrialisation. Rejoignez //un espace qui stimule la créativité et vous connecte à vos ambitions. La Cité est un lieu d’échanges où se rencontrent des passionnés et des professionnels pour donner vie aux objets
+//connectés de demain.
+
+iot=C'est l'Internet des Objets, le concept de l'internet des objets désigne tout objet pouvant contenir un dispositif informatique embarqué et connecté. Ainsi, un "objet" dans l'internet des objets peut aussi bien être un conteneur maritime doté d'une étiquette RFID qu'une montre grand public équipée d'une puce Wifi qui envoie des données sur la condition physique ou de courts messages à un serveur quelque part sur internet.
+
+lyautey=C'est l'Internet des Objets, le concept de l'internet des objets désigne tout objet pouvant contenir un dispositif informatique embarqué et connecté. Ainsi, un "objet" dans l'internet des objets peut aussi bien être un conteneur maritime doté d'une étiquette RFID qu'une montre grand public équipée d'une puce Wifi qui envoie des données sur la condition physique ou de courts messages à un serveur quelque part sur internet.
+
+internet=C'est l'Internet des Objets, le concept de l'internet des objets désigne tout objet pouvant contenir un dispositif informatique embarqué et connecté. Ainsi, un "objet" dans l'internet des objets peut aussi bien être un conteneur maritime doté d'une étiquette RFID qu'une montre grand public équipée d'une puce Wifi qui envoie des données sur la condition physique ou de courts messages à un serveur quelque part sur internet.
+
+connecté=C'est l'Internet des Objets, le concept de l'internet des objets désigne tout objet pouvant contenir un dispositif informatique embarqué et connecté. Ainsi, un "objet" dans l'internet des objets peut aussi bien être un conteneur maritime doté d'une étiquette RFID qu'une montre grand public équipée d'une puce Wifi qui envoie des données sur la condition physique ou de courts messages à un serveur quelque part sur internet.
+
+47=C'est l'Internet des Objets, le concept de l'internet des objets désigne tout objet pouvant contenir un dispositif informatique embarqué et connecté. Ainsi, un "objet" dans l'internet des objets peut aussi bien être un conteneur maritime doté d'une étiquette RFID qu'une montre grand public équipée d'une puce Wifi qui envoie des données sur la condition physique ou de courts messages à un serveur quelque part sur internet.
+// French Tech
+
+manufacturing=Angers Freintch Tèk est la déclinaison territoriale et thématique de la dynamique nationale Freintch Tèk, en faveur des start-up technologiques, qui vibre sur notre territoire. Reconnue pour ses savoir-faire et son histoire électronique, Angers a tout naturellement rejoint le réseau thématique Freintch Tèk sur l'IoTé et le Manufacturing.
+
+labellisé=Angers Freintch Tèk est la déclinaison territoriale et thématique de la dynamique nationale Freintch Tèk, en faveur des start-up technologiques, qui vibre sur notre territoire. Reconnue pour ses savoir-faire et son histoire électronique, Angers a tout naturellement rejoint le réseau thématique Freintch Tèk sur l'IoTé et le Manufacturing.
+
+Angers(*)labellisé(*)french tech=Angers Freintch Tèk est la déclinaison territoriale et thématique de la dynamique nationale Freintch Tèk, en faveur des start-up technologiques, qui vibre sur notre territoire. Reconnue pour ses savoir-faire et son histoire électronique, Angers a tout naturellement rejoint le réseau thématique Freintch Tèk sur l'IoTé et le Manufacturing.
+
+26=Angers Freintch Tèk est la déclinaison territoriale et thématique de la dynamique nationale Freintch Tèk, en faveur des start-up technologiques, qui vibre sur notre territoire. Reconnue pour ses savoir-faire et son histoire électronique, Angers a tout naturellement rejoint le réseau thématique Freintch Tèk sur l'IoTé et le Manufacturing.
+
+French Tech=La Freintch Tèk  désigne tous ce qui travaillent dans ou pour les start-up françaises en France ou à l'étranger. Les entrepreneurs en premier lieu, mais aussi les investisseurs, ingénieurs, disaïneurs, développeurs, grands groupes, associations, medias, opérateurs publics, instituts de recherche... qui s'engagent pour la croissance des start-up d'une part et leur rayonnement international d'autre part.
+
+27=La Freintch Tèk  désigne tous ce qui travaillent dans ou pour les start-up françaises en France ou à l'étranger. Les entrepreneurs en premier lieu, mais aussi les investisseurs, ingénieurs, disaïneurs, développeurs, grands groupes, associations, medias, opérateurs publics, instituts de recherche... qui s'engagent pour la croissance des start-up d'une part et leur rayonnement international d'autre part.
+
+// Etudes
+
+que(*)faire(*)Angers=A Angers, il est possible de tout faire : étudier, inventer, fabriquer, tester, commercialiser aussi bien des produits, des machines, des logiciels ou des solutions globales. Aujourd'hui, Angers maîtrise une alchimie précieuse entre des savoir-faire et un tissu industriel incomparables dans le domaine de l'électronique.
+
+étudier=A Angers, il est possible de tout faire : étudier, inventer, fabriquer, tester, commercialiser aussi bien des produits, des machines, des logiciels ou des solutions globales. Aujourd'hui, Angers maîtrise une alchimie précieuse entre des savoir-faire et un tissu industriel incomparables dans le domaine de l'électronique.
+
+étude=A Angers, il est possible de tout faire : étudier, inventer, fabriquer, tester, commercialiser aussi bien des produits, des machines, des logiciels ou des solutions globales. Aujourd'hui, Angers maîtrise une alchimie précieuse entre des savoir-faire et un tissu industriel incomparables dans le domaine de l'électronique.
+
+tester=A Angers, il est possible de tout faire : étudier, inventer, fabriquer, tester, commercialiser aussi bien des produits, des machines, des logiciels ou des solutions globales. Aujourd'hui, Angers maîtrise une alchimie précieuse entre des savoir-faire et un tissu industriel incomparables dans le domaine de l'électronique.
+
+28=A Angers, il est possible de tout faire : étudier, inventer, fabriquer, tester, commercialiser aussi bien des produits, des machines, des logiciels ou des solutions globales. Aujourd'hui, Angers maîtrise une alchimie précieuse entre des savoir-faire et un tissu industriel incomparables dans le domaine de l'électronique.
+
+// Maire
+
+maire=Christophe Béchu est maire d'Angers depuis avril 2014, il est l'Ancien président du conseil général de Maine-et-Loire et a été sénateur de  2011 à 2017. c'est lui qui est à l'initiative de l'organisation du WEF à Angers.
+
+Béchu=Christophe Béchu est maire d'Angers depuis avril 2014, il est l'Ancien président du conseil général de Maine-et-Loire et a été sénateur de  2011 à 2017. c'est lui qui est à l'initiative de l'organisation du WEF à Angers.
+
+élus=Il y a quelques grands noms célèbres d'hommes politiques à Angers, des maires comme Jean TURC, Jean MONNIER, Jean-claude ANTONINI et Christophe Béchu, mais aussi des députés célèbres comme Luc BELOT et j'ai même entendu parler de Roselyne BACHELOT.
+
+politique=Il y a quelques grands noms célèbres d'hommes politiques à Angers, des maires comme Jean TURC, Jean MONNIER, Jean-claude ANTONINI et Christophe Béchu, mais aussi des députés célèbres comme Luc BELOT et j'ai même entendu parler de Roselyne BACHELOT.
+
+37=Il y a quelques grands noms célèbres d'hommes politiques à Angers, des maires comme Jean TURC, Jean MONNIER, Jean-claude ANTONINI et Christophe Béchu, mais aussi des députés célèbres comme Luc BELOT et j'ai même entendu parler de Roselyne BACHELOT.
+
+30=Christophe Béchu est maire d'Angers depuis avril 2014, il est l'Ancien président du conseil général de Maine-et-Loire et a été sénateur de  2011 à 2017. c'est lui qui est à l'initiative de l'organisation du WEF à Angers.
+
+36=Christophe Béchu est maire d'Angers depuis avril 2014, il est l'Ancien président du conseil général de Maine-et-Loire et a été sénateur de  2011 à 2017. c'est lui qui est à l'initiative de l'organisation du WEF à Angers.
+
+// Personnalités
+
+roi(*)René=Le roi René d'Anjou, surnommé par ses sujets le Bon Roi René, vécu au quinzième siècle. Contemporain de Jeanne d'Arc, il participe aux dernières opérations de la guerre de 100 Ans. Avec plusieurs demeures et châteaux en Anjou, il a été déterminant pour la prospérité d'Angers... Je vous propose d'aller en lire quelques lignes sur wikipédia.
+
+René=Le roi René d'Anjou, surnommé par ses sujets le Bon Roi René, vécu au quinzième siècle. Contemporain de Jeanne d'Arc, il participe aux dernières opérations de la guerre de 100 Ans. Avec plusieurs demeures et château en Anjou, il a été déterminant pour la prospérité d'Angers... Je vous propose d'aller en lire quelques lignes sur wikipédia.
+
+31=Le roi René d'Anjou, surnommé par ses sujets le Bon Roi René, vécu au quinzième siècle. Contemporain de Jeanne d'Arc, il participe aux dernières opérations de la guerre de 100 Ans. Avec plusieurs demeures et château en Anjou, il a été déterminant pour la prospérité d'Angers... Je vous propose d'aller en lire quelques lignes sur wikipédia.
+
+Personnage historique 1=Le roi René d'Anjou, surnommé par ses sujets le Bon Roi René, vécu au quinzième siècle. Contemporain de Jeanne d'Arc, il participe aux dernières opérations de la guerre de 100 Ans. Avec plusieurs demeures et château en Anjou, il a été déterminant pour la prospérité d'Angers... Je vous propose d'aller en lire quelques lignes sur wikipédia.
+
+Personnages historiques 1=Le roi René d'Anjou, surnommé par ses sujets le Bon Roi René, vécu au quinzième siècle. Contemporain de Jeanne d'Arc, il participe aux dernières opérations de la guerre de 100 Ans. Avec plusieurs demeures et château en Anjou, il a été déterminant pour la prospérité d'Angers... Je vous propose d'aller en lire quelques lignes sur wikipédia.
+
+David=Pierre-Jean David, dit David d’Angers est un sculpteur français né à Angers en 1788. Il a entre autres scuplté la statue du Grand Condé et du fronton du Panthéon à Paris, mais est aussi reconnu pour ces statues et médaillons présents dans de nombreux ouvrages. Son nom a été attribué à un lycée à Angers, n'hésitez pas à visiter la galerie David-d'Angers dans l'abbaye Toussaint.
+
+32=Pierre-Jean David, dit David d’Angers est un sculpteur français né à Angers en 1788. Il a entre autres scuplté la statue du Grand Condé et du fronton du Panthéon à Paris, mais est aussi reconnu pour ces statues et médaillons présents dans de nombreux ouvrages. Son nom a été attribué à un lycée à Angers, n'hésitez pas à visiter la galerie David-d'Angers dans l'abbaye Toussaint.
+
+sculpteur=Pierre-Jean David, dit David d’Angers est un sculpteur français né à Angers en 1788. Il a entre autres scuplté la statue du Grand Condé et du fronton du Panthéon à Paris, mais est aussi reconnu pour ces statues et médaillons présents dans de nombreux ouvrages. Son nom a été attribué à un lycée à Angers, n'hésitez pas à visiter la galerie David-d'Angers dans l'abbaye Toussaint.
+
+Personnage historique 2=Pierre-Jean David, dit David d’Angers est un sculpteur français né à Angers en 1788. Il a entre autres scuplté la statue du Grand Condé et du fronton du Panthéon à Paris, mais est aussi reconnu pour ces statues et médaillons présents dans de nombreux ouvrages. Son nom a été attribué à un lycée à Angers, n'hésitez pas à visiter la galerie David-d'Angers dans l'abbaye Toussaint.
+
+David d'Angers=Pierre-Jean David, dit David d’Angers est un sculpteur français né à Angers en 1788. Il a entre autres scuplté la statue du Grand Condé et du fronton du Panthéon à Paris, mais est aussi reconnu pour ces statues et médaillons présents dans de nombreux ouvrages. Son nom a été attribué à un lycée à Angers, n'hésitez pas à visiter la galerie David-d'Angers dans l'abbaye Toussaint.
+
+Personnages historiques 2=Pierre-Jean David, dit David d’Angers est un sculpteur français né à Angers en 1788. Il a entre autres scuplté la statue du Grand Condé et du fronton du Panthéon à Paris, mais est aussi reconnu pour ces statues et médaillons présents dans de nombreux ouvrages. Son nom a été attribué à un lycée à Angers, n'hésitez pas à visiter la galerie David-d'Angers dans l'abbaye Toussaint.
+
+Geoffroy=Geoffroy 5 d'Anjou, dit le Bel ou Plantagenêt, est surnommé Plantagenêt à cause du brin de genêt qu'il avé l'habitude de porter à son chapeau. Il était le fils de Foulque 5 (mort en 1143), comte d'Anjou et roi de Jérusalem, issu d'une vieille famille franque, les Ingelgeriens, et d'Erembourge du Maine, héritière du Maine. Son fils Henri II d'Angleterre est le fondateur de la dynastie Plantagenêt des rois anglais.
+
+plantagenêt=Geoffroy 5 d'Anjou, dit le Bel ou Plantagenêt, est surnommé Plantagenêt à cause du brin de genêt qu'il avé l'habitude de porter à son chapeau. Il était le fils de Foulque 5 (mort en 1143), comte d'Anjou et roi de Jérusalem, issu d'une vieille famille franque, les Ingelgeriens, et d'Erembourge du Maine, héritière du Maine. Son fils Henri II d'Angleterre est le fondateur de la dynastie Plantagenêt des rois anglais.
+
+33=Geoffroy 5 d'Anjou, dit le Bel ou Plantagenêt, est surnommé Plantagenêt à cause du brin de genêt qu'il avé l'habitude de porter à son chapeau. Il était le fils de Foulque 5 (mort en 1143), comte d'Anjou et roi de Jérusalem, issu d'une vieille famille franque, les Ingelgeriens, et d'Erembourge du Maine, héritière du Maine. Son fils Henri II d'Angleterre est le fondateur de la dynastie Plantagenêt des rois anglais.
+
+// Jumelage
+
+jumelage=Depuis trente ans, Angers a mis en place une politique de relations suivies avec des villes sœurs, marquée par le jumelage en 1964 avec Osnabrück en Allemagne, Haarlem aux Pays-Bas, Bamako au Mali en 1974, Pise en 1982 et Wigan en Angleterre en 1988.
+
+jumelé=Depuis trente ans, Angers a mis en place une politique de relations suivies avec des villes sœurs, marquée par le jumelage en 1964 avec Osnabrück en Allemagne, Harlem aux Pays-Bas. Bamakko au Mali en 1974, Pise en 1982 et Wigann en Angleterre en 1988.
+
+34=Depuis trente ans, Angers a mis en place une politique de relations suivies avec des villes sœurs, marquée par le jumelage en 1964 avec Osnabrück en Allemagne, Haarlem aux Pays-Bas, Bamako au Mali en 1974, Pise en 1982 et Wigan en Angleterre en 1988.
+
+// Aldev
+
+Aldev=Aldev est l’agence de développement économique d’Angers Loire Métropole. Son périmètre d’intervention s’étend donc sur les trenteu communes de la communauté urbaine angevine. Aldev est pour les entrepreneurs, les entreprises, les communes et les acteurs économiques la porte d’entrée pour tout projet de développement ou d’implantation mais aussi l’interlocuteur privilégié sur les questions d’emploi, de recrutement, d’innovation, de recherche ou d’enseignement supérieur. Aldev accompagne également les filières d’excellence et innovantes du territoire.
+
+Aldes=Aldev est l’agence de développement économique d’Angers Loire Métropole. Son périmètre d’intervention s’étend donc sur les trenteu communes de la communauté urbaine angevine. Aldev est pour les entrepreneurs, les entreprises, les communes et les acteurs économiques la porte d’entrée pour tout projet de développement ou d’implantation mais aussi l’interlocuteur privilégié sur les questions d’emploi, de recrutement, d’innovation, de recherche ou d’enseignement supérieur. Aldev accompagne également les filières d’excellence et innovantes du territoire.
+
+Alden=Aldev est l’agence de développement économique d’Angers Loire Métropole. Son périmètre d’intervention s’étend donc sur les trenteu communes de la communauté urbaine angevine. Aldev est pour les entrepreneurs, les entreprises, les communes et les acteurs économiques la porte d’entrée pour tout projet de développement ou d’implantation mais aussi l’interlocuteur privilégié sur les questions d’emploi, de recrutement, d’innovation, de recherche ou d’enseignement supérieur. Aldev accompagne également les filières d’excellence et innovantes du territoire.
+
+38=Aldev est l’agence de développement économique d’Angers Loire Métropole. Son périmètre d’intervention s’étend donc sur les trenteu communes de la communauté urbaine angevine. Aldev est pour les entrepreneurs, les entreprises, les communes et les acteurs économiques la porte d’entrée pour tout projet de développement ou d’implantation mais aussi l’interlocuteur privilégié sur les questions d’emploi, de recrutement, d’innovation, de recherche ou d’enseignement supérieur. Aldev accompagne également les filières d’excellence et innovantes du territoire.
+
+// WEF
+
+personne=Le WEF, c'est entre 100 et 200 personnes parmi les plus grands acteurs de l'électronique mondiale qui se réunissent pour discuter de la situation économique, parler avenir et faire du business.
+
+business=Le WEF, c'est entre 100 et 200 personnes parmi les plus grands acteurs de l'électronique mondiale qui se réunissent pour discuter de la situation économique, parler avenir et faire du business.
+
+nombre de participants=Le WEF, c'est entre 100 et 200 personnes parmi les plus grands acteurs de l'électronique mondiale qui se réunissent pour discuter de la situation économique, parler avenir et faire du business.
+
+40=Le WEF, c'est entre 100 et 200 personnes parmi les plus grands acteurs de l'électronique mondiale qui se réunissent pour discuter de la situation économique, parler avenir et faire du business.
+
+programme=C'est un peu long de vous lister tout le programme, je vous propose de demander une brochure ou de surfer sur notre site web.
+
+42=C'est un peu long de vous lister tout le programme, je vous propose de demander une brochure ou de surfer sur notre site web.
+
+objectif=Depuis 1995, cette rencontre annuelle rassemble des représentants de fédérations de l'industrie électronique provenant du monde entier et les dirigeants de grandes entreprises du secteur. Son principal objectif est de renforcer les liens entre les fédérations, d'échanger des informations sur des sujets clés et de favoriser son développement.
+
+développement=Depuis 1995, cette rencontre annuelle rassemble des représentants de fédérations de l'industrie électronique provenant du monde entier et les dirigeants de grandes entreprises du secteur. Son principal objectif est de renforcer les liens entre les fédérations, d'échanger des informations sur des sujets clés et de favoriser son développement.
+
+43=Depuis 1995, cette rencontre annuelle rassemble des représentants de fédérations de l'industrie électronique provenant du monde entier et les dirigeants de grandes entreprises du secteur. Son principal objectif est de renforcer les liens entre les fédérations, d'échanger des informations sur des sujets clés et de favoriser son développement.
+
+Europe=C'est donc après plusieurs mois de négociations qu'Angers, qui était en concurrence avec d'autres villes et d'autres territoires, reçoit le Forum Mondial de l'Électronique (World Electronics Forum – WEF). La 22ème édition du World Electronics Forum se tient pour la première fois en Europe, dans la ville d’Angers, au cœur du Grand Ouest français.
+
+Pourquoi angers=C'est donc après plusieurs mois de négociations qu'Angers, qui était en concurrence avec d'autres villes et d'autres territoires, reçoit le Forum Mondial de l'Électronique (World Electronics Forum – WEF). La 22ème édition du World Electronics Forum se tient pour la première fois en Europe, dans la ville d’Angers, au cœur du Grand Ouest français.
+
+pourquoi danger=C'est donc après plusieurs mois de négociations qu'Angers, qui était en concurrence avec d'autres villes et d'autres territoires, reçoit le Forum Mondial de l'Électronique (World Electronics Forum – WEF). La 22ème édition du World Electronics Forum se tient pour la première fois en Europe, dans la ville d’Angers, au cœur du Grand Ouest français.
+
+première fois=C'est donc après plusieurs mois de négociations qu'Angers, qui était en concurrence avec d'autres villes et d'autres territoires, reçoit le Forum Mondial de l'Électronique (World Electronics Forum – WEF). La 22ème édition du World Electronics Forum se tient pour la première fois en Europe, dans la ville d’Angers, au cœur du Grand Ouest français.
+
+44=C'est donc après plusieurs mois de négociations qu'Angers, qui était en concurrence avec d'autres villes et d'autres territoires, reçoit le Forum Mondial de l'Électronique (World Electronics Forum – WEF). La 22ème édition du World Electronics Forum se tient pour la première fois en Europe, dans la ville d’Angers, au cœur du Grand Ouest français.
+
+permettre=Le WEF va permettre d'inscrire, voire de réinscrire, Angers sur la carte européenne de l'électronique et de l'IoTé et ce sur la durée. La dynamique est accompagnée par Monsieur Gary Shapiro.
+
+que va apporter le=Le WEF va permettre d'inscrire, voire de réinscrire, Angers sur la carte européenne de l'électronique et de l'IoTé et ce sur la durée. La dynamique est accompagnée par Monsieur Gary Shapiro.
+
+dynamique=Le WEF va permettre d'inscrire, voire de réinscrire, Angers sur la carte européenne de l'électronique et de l'IoTé et ce sur la durée. La dynamique est accompagnée par Monsieur Gary Shapiro.
+
+Que va apporter=Le WEF va permettre d'inscrire, voire de réinscrire, Angers sur la carte européenne de l'électronique et de l'IoTé et ce sur la durée. La dynamique est accompagnée par Monsieur Gary Shapiro.
+
+45=Le WEF va permettre d'inscrire, voire de réinscrire, Angers sur la carte européenne de l'électronique et de l'IoTé et ce sur la durée. La dynamique est accompagnée par Monsieur Gary Shapiro.
+
+WEF=Le WEF est le Forum Mondial de l'Électronique (Word Electronic Forum). C'est un événement, à portée internationale, qui s'est déroulé dans le cadre d'une semaine dédiée à l'IoTé regroupant des conférences techniques, des visites d'entreprises et des expositions.
+
+WEB=Le WEF est le Forum Mondial de l'Électronique (Word Electronic Forum). C'est un événement, à portée internationale, qui s'est déroulé dans le cadre d'une semaine dédiée à l'IoTé regroupant des conférences techniques, des visites d'entreprises et des expositions.
+
+évènement=Le WEF est le Forum Mondial de l'Électronique (Word Electronic Forum). C'est un événement, à portée internationale, qui s'est déroulé dans le cadre d'une semaine dédiée à l'IoTé regroupant des conférences techniques, des visites d'entreprises et des expositions.
+
+définition=Le WEF est le Forum Mondial de l'Électronique (Word Electronic Forum). C'est un événement, à portée internationale, qui s'est déroulé dans le cadre d'une semaine dédiée à l'IoTé regroupant des conférences techniques, des visites d'entreprises et des expositions.
+
+41=Le WEF est le Forum Mondial de l'Électronique (Word Electronic Forum). C'est un événement, à portée internationale, qui s'est déroulé dans le cadre d'une semaine dédiée à l'IoTé regroupant des conférences techniques, des visites d'entreprises et des expositions.
+
+président=Monsieur Gary SHAPIRO, est le président du Consumeur Technology Association (CTA), il a beaucoup contribué à la venue du WEF à ANGERS.
+
+CTA=Monsieur Gary SHAPIRO, est le président du Consumeur Technology Association (CTA), il a beaucoup contribué à la venue du WEF à ANGERS.
+
+Qui(*)Gary Shapiro=Monsieur Gary SHAPIRO, est le président du Consumeur Technology Association (CTA), il a beaucoup contribué à la venue du WEF à ANGERS.
+
+46=Monsieur Gary SHAPIRO, est le président du Consumeur Technology Association (CTA), il a beaucoup contribué à la venue du WEF à ANGERS.
+
+WISE=Véritable heub IoTé de l'Ouest, la WISE'Factory ouvre sur l'intégralité de la chaîne de valeur IoTé. Elle intègre sur 8 000 mètres carré des services complets de conception, prototypage, industrialisation, test, accélération communication et commercialisation des objets connectés. Elle offre de plus un accès privilégié à l'écosystème industriel étendu du Grand Ouest français.
+
+factory=Véritable heub IoTé de l'Ouest, la WISE'Factory ouvre sur l'intégralité de la chaîne de valeur IoTé. Elle intègre sur 8 000 mètres carré des services complets de conception, prototypage, industrialisation, test, accélération communication et commercialisation des objets connectés. Elle offre de plus un accès privilégié à l'écosystème industriel étendu du Grand Ouest français.
+
+48=Véritable heub IoTé de l'Ouest, la WISE'Factory ouvre sur l'intégralité de la chaîne de valeur IoTé. Elle intègre sur 8 000 mètres carré des services complets de conception, prototypage, industrialisation, test, accélération communication et commercialisation des objets connectés. Elle offre de plus un accès privilégié à l'écosystème industriel étendu du Grand Ouest français.
+
+// Smart city
+
+smart=Angers Smart City est présente au WEF pour présenter l'ensemble des expérimentations innovantes qu'elle déploie sur le territoire. Angers a l'ambition de devenir un territoire de référence pour l'innovation et les expérimentations. Via une application aècecéeu point io, vous pourrez découvrir l'ensemble des innovations que vous pouvez évaluer, commenter ou proposer des améliorations pour chacune d'entre-elles. N'hésitez pas à parcourir notre territoire pour profiter, in situ, de nos services innovants.
+
+city=Angers Smart City est présente au WEF pour présenter l'ensemble des expérimentations innovantes qu'elle déploie sur le territoire. Angers a l'ambition de devenir un territoire de référence pour l'innovation et les expérimentations. Via une application aècecéeu point io, vous pourrez découvrir l'ensemble des innovations que vous pouvez évaluer, commenter ou proposer des améliorations pour chacune d'entre-elles. N'hésitez pas à parcourir notre territoire pour profiter, in situ, de nos services innovants.
+
+49=Angers Smart City est présente au WEF pour présenter l'ensemble des expérimentations innovantes qu'elle déploie sur le territoire. Angers a l'ambition de devenir un territoire de référence pour l'innovation et les expérimentations. Via une application aècecéeu point io, vous pourrez découvrir l'ensemble des innovations que vous pouvez évaluer, commenter ou proposer des améliorations pour chacune d'entre-elles. N'hésitez pas à parcourir notre territoire pour profiter, in situ, de nos services innovants.
+
+Je ne sais pas=Je ne comprends pas la question
+51=Je ne comprends pas la question
+
+secret=Je vais vous faire une confidence. c'est top secret !
+52=Je vais vous faire une confidence. c'est top secret !
+
+confier=Je vais vous faire une confidence. c'est top secret !
+
+Ok=Je suis tout à fait d'accord.
+53=Je suis tout à fait d'accord.
+
+Pas d'accord=Je ne suis pas d'accord.
+54=Je ne suis pas d'accord.
+
+// Non programmé
+
+noprogra=Je ne suis pas programmé pour répondre à cette question.
+Qu'en pense(*)=Je ne suis pas programmé pour répondre à cette question.
+55=Je ne suis pas programmé pour répondre à cette question.
+
+// Refus de répondre
+
+refu=Désolé, je ne souhaite pas répondre à cette question. Voulez-vous m'en poser une autre ?
+50=Désolé, je ne souhaite pas répondre à cette question. Voulez-vous m'en poser une autre ?
+
+Origine(*)Poppy=Mes parents sont Cap Gémini et Aldev, Cap Gémini m'a construit, m'a programmé mais c'est grâce à Aldev que j'ai tout appris sur Angers et le WEF.
+Poppy=Mes parents sont Cap Gémini et Aldev, Cap Gémini m'a construit, m'a programmé mais c'est grâce à Aldev que j'ai tout appris sur Angers et le WEF.
+57=Mes parents sont Cap Gémini et Aldev, Cap Gémini m'a construit, m'a programmé mais c'est grâce à Aldev que j'ai tout appris sur Angers et le WEF.
+
+
+

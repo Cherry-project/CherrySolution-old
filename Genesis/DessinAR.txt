@@ -1,0 +1,51 @@
+//
+//Voici le cerveau principal de Cherry, developpé par trotter (trotter.poulpe, gmail.com).
+//Merci de ne pas le réutiliser dans un cadre commercial.
+//Mis à disposition selon les termes de la licence Creative Commons Paternité-Pas d'Utilisation Commerciale-Partage des Conditions Initiales à l'Identique 2.0 France.
+//La licence est consultable ici : http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+//
+//=(SUJET : <-var sujet-><-continuer->)
+
+// 		SCENARIO PRESENTATION GENERIQUE
+
+{nulle var $nom_user}~bonjour~=Moi c'est Poppy, comment tu t'appelles toi?<-modvar($scenario,1)->
+{var $scenario:>1}{nulle var $nom_user}(*)=D'accord, (*) c'est ça ? <-modvar($nom_user,(*))-><-modvar($scenario,2)->
+
+//      METEO
+
+météo à (*)=<-modvar($meteo,(*))-> <-inc(meteo.php, <-var($meteo)->)->
+{var $meteo}météo de la semaine=<-inc(meteodemain.php, <-var($meteo)->)->
+
+//      INFOS
+
+~info~=Tiens, tu as vu les infos ? Les gros titres sont <-inc(titrejournal.php)-> et <-inc(titrejournal.php,1)->.
+
+//      RECHERCHES
+
+recherche sur (*)=<-modvar($recherche,(*))-> <-inc(recherche.php, <-var($recherche)->)->
+c'est qui (*)=<-modvar($recherche,(*))-> <-inc(recherche.php, <-var($recherche)->)->
+c'est quoi (*)=<-modvar($recherche,(*))-> <-inc(recherche.php, <-var($recherche)->)->
+qui est (*)=<-modvar($recherche,(*))-> <-inc(recherche.php, <-var($recherche)->)->
+
+// 		SCENARIO PREMIERE RENCONTRE
+
+{var $scenario:>2}~oui~=D'accord ! Et dis moi c'est quoi ton dessin animé favori ?<-modvar($scenario,3)->
+{var $scenario:>3}(*)=<-modvar($dessina,(*))-> D'accord mon petit. Je dois y aller j'ai un entretien. A demain ! <-modvar($scenario,1)->
+
+//Et c'est quoi ton age dis-moi ?[temp:age]
+//{temp:age}(*)=<-modvar($age,(*))-> D'accord <-inc(inscriptionBDD.php, <-var($nom_user)->, <-var($dessina)->, <-var($age)->)->
+//{temp:age}(*)=<-modvar($age,(*))-> D'accord
+
+// POUR LE DEV
+
+//insert=<-inc(inscriptionBDD.php, <-var($nom_user)->, <-var($dessina)->, <-var($age)->)->
+//delete=<-inc(deleteBDD.php, <-var($nom_user)->, <-var($dessina)->, <-var($age)->)->
+//select=<-modvar($test,inc(select.php))->
+
+
+//		SCENARIO DEUXIEME RENCONTRE
+
+{var $nom_user}~bonjour~=Ah, c'est toi <-var($nom_user)->, comment vas-tu ?<-modvar($scenario2,1)->
+{var $scenario2:>1}(*)=Bon bon, ben moi ça va toujours. Dis, ça te dirais de regarder un episode de <-var($dessina)-> ? <-modvar($scenario2,2)->
+{var $scenario2:>2}~oui~=Oké ! je te lance ça sur ta tablette, deux petites secondes.
+{var $scenario2:>2}~non~=ah, bon d'accord. Tu veux parler de ton sujet de hier alors ?<-modvar($scenario2,3)->

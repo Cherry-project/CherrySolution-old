@@ -1,0 +1,41 @@
+﻿
+//=(SUJET : <-var sujet-><-continuer->)
+
+lance la demo=Bonjour, je m'appelle Poppy. Je suis un robot humanoide utilisé pour le projet Cherry, qui consiste à tenir compagnie à des enfants hospitalisés comme toi. Je vais être ton nouveau compagnon de chambre, enfin si tu le veux bien. Mais tout d'abord, tu veux bien me dire comment tu t'appelles s'il te plait ?<-modvar($scenario,1)->
+
+{var $scenario:>1}(*)=D'accord, (*) c'est ça ? <-modvar($nom_user,(*))-><-modvar($scenario,2)->
+
+{var $scenario:>2}~non~=Ah, je n'ai pas bien compris alors. Tu peux me le dire à nouveau ? <-modvar($scenario,1)->
+
+{var $scenario:>2}~oui~=D'accord ! Et quel âge as-tu dis moi ?<-modvar($scenario,3)->
+
+{var $scenario:>3}(*)=<-modvar($age,(*))-> D'accord, c'est que tu es grand dis moi ! Bon, je vais maintenant te présenter les activités que tu peux faire avec moi. Tu peux me faire jouer une chorégraphie depuis ta tablette, ou me faire faire les mouvements que tu veux. Tu peux aussi jouer a différents jeux : le jeux des 4 images ou tu dois deviner un mot avec des images, le jeu de la calculatrice pour t'entrainer au calcul, et le jeu des cases qui est un jeu de mémoire. Je peux aussi te raconter des blagues, ou on peut simplement discuter si tu le souhaites. Qu'est ce que tu veux faire ?<-modvar($scenario,4)->
+
+{var $scenario:>4}~monde~=La france a gagnée la coupe du monde en 1998 !
+
+{var $scenario:>4}~equipe~=Je soutiens Bordeaux, bien sûr !
+
+{var $scenario:>4}~euro~=La france à gagné l'euro en 1984 et 2000 !
+
+{var $scenario:>4}~blague~=D'accord ! Alors choisis juste la blague que tu veux que je te dises<-modvar($scenario,6)->
+
+{var $scenario:>4}~danser~=D'accord ! Alors pour ça il faut que tu sélectionnes une musique, des mouvements et que tu fasses une chorégraphie, regarde sur ta tablette c'est très simple !<-modvar($scenario,5)->
+
+{var $scenario:>4}~bouger~=D'accord ! Alors pour ça il faut que tu sélectionnes des mouvements et que tu me les fasses jouer !<-modvar($scenario,5)->
+
+{var $scenario:>4}~calcul~=D'accord ! Prépare toi a faire du calcul mental ! Tu peux vérifier tes résultats en me demandant de calculer pour toi<-modvar($scenario,5)->
+
+{var $scenario:>4}~image~=D'accord ! Alors c'est parti, tu vois les 4 images, et il faut que tu trouves un mot, vas y essaie pour voir !<-modvar($scenario,5)->
+
+{var $scenario:>4}~cases~=D'accord ! Alors pour ça il faut que tu sélectionnes deux cases identiques, et trouve les toutes pour gagner !<-modvar($scenario,5)->
+
+{var $scenario:>7}comment(*)~appelle~=Je m'appelle Poppy
+
+{var $scenario:>7}Qui(*)~creer~=Je ne sais pas, mais c'est la mairie de Bordeaux qui m'a fourni à Sogeti, et c'est grâce à ses développeurs hors pair que je suis la !
+
+{var $scenario:>7}Quel(*)~age~=Je suis tout jeune moi, j'ai à peine 3 ans. 
+
+{var $scenario:>7}~activite~=Alors je te répète les activités que tu peux faire avec moi. Tu peux me faire jouer une chorégraphie depuis ta tablette, ou me faire faire les mouvements que tu veux. Tu peux aussi jouer a différents jeux : le jeux des 4 images ou tu dois deviner un mot avec des images, le jeu de la calculatrice pour t'entrainer au calcul, et le jeu des cases qui est un jeu de mémoire. Je peux aussi te raconter des blagues, ou on peut simplement discuter si tu le souhaites. Qu'est ce que tu veux faire ?<-modvar($scenario,4)->
+
+
+
